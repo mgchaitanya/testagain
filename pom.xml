@@ -27,7 +27,13 @@
 			<artifactId>jpaz2</artifactId>
 			<version>1.1.0</version>
 		</dependency>
-	</dependencies>
+		<!-- https://mvnrepository.com/artifact/sk.upjs.jpaz2.archetypes/jpaz2-archetype-quickstart -->
+                <dependency>
+                        <groupId>sk.upjs.jpaz2.archetypes</groupId>
+                        <artifactId>jpaz2-archetype-quickstart</artifactId>
+                        <version>1.1.1</version>
+                </dependency>
+                </dependencies>
 
 	<build>
 		<plugins>
